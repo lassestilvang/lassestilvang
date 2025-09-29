@@ -7,14 +7,10 @@ I love working at the intersection of **AI, Cloud, and Web** — turning ideas i
 
 🇩🇰 Based in Copenhagen, Denmark
 
----
-
 ## 🛠️ Tech Stack & Tools
 
 <details>
-<summary>
-
-#### Show
+<summary>Show
 </summary>
 
 | Layer / Area | Technologies |
@@ -34,8 +30,6 @@ I love working at the intersection of **AI, Cloud, and Web** — turning ideas i
 
 </details>
 
----
-
 ## 🤝 Let’s Collaborate
 
 I’m always open to:
@@ -43,8 +37,6 @@ I’m always open to:
 - Contributing to interesting open source projects  
 - Collaborating on web or cloud applications  
 - Discussing new ideas or opportunities  
-
----
 
 ## 📫 Connect
 
