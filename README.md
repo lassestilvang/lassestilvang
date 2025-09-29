@@ -1,4 +1,4 @@
-<img width="3000" height="1500" alt="Lasse Stilvang" src="https://github.com/user-attachments/assets/c57b406b-28e1-4953-98c0-90c08a7dc97e" />
+<img width="3000" height="1000" alt="github-header2" src="https://github.com/user-attachments/assets/865f7001-c334-4433-bcfe-285a965c72f4" />
 
 ## 👨‍💻 About Me
 
