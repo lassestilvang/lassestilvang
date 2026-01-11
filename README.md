@@ -42,9 +42,9 @@ I’m always open to:
 
 
 [![lassestilvang.com](https://img.shields.io/badge/%F0%9F%8C%90-lassestilvang.com-0E172B)](https://lassestilvang.com)
-\* [![LinkedIn Lasse Stilvang](https://custom-icon-badges.demolab.com/badge/lassestilvang-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lassestilvang/)
-\* [![X Lasse Stilvang](https://img.shields.io/badge/lassestilvang-black?logo=x)](https://x.com/lassestilvang)
-\* [![Bluesky Lasse Stilvang](https://img.shields.io/badge/lassestilvang-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/lassestilvang.com)
+\* [![LinkedIn Lasse Stilvang](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lassestilvang/)
+\* [![X Lasse Stilvang](https://img.shields.io/badge/X.com-black?logo=x)](https://x.com/lassestilvang)
+\* [![Bluesky Lasse Stilvang](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/lassestilvang.com)
 \* [![CodePen Lasse Stilvang](https://custom-icon-badges.demolab.com/badge/CodePen-white?&logo=codepen-black&logoColor=black)](https://codepen.io/lassestilvang)
 \* [![Credly Lasse Stilvang](https://img.shields.io/badge/Credly-white?logo=credly)](https://www.credly.com/users/lassestilvang)
 \* [![GitHub Lasse Stilvang](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/lassestilvang)
